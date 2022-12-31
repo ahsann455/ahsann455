@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer student & a gamer.</h3>
 
 - I’m currently learning **Django, Flask & Pyramid aside from basic Javascript.**
-<h4 align="center">Smogon: https://www.smogon.com/forums/members/starryyv.607646/</h3>
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
