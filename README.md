@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ahsan</h1>
-<h3 align="center">A passionate software engineer student & a gamer.</h3>
+<h3 align="center">A passionate software engineering student & a gamer.</h3>
 
 - I’m currently learning **Django, Flask & Pyramid aside from basic Javascript.**
 </h3>
