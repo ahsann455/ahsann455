@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ahsan</h1>
-<h3 align="center">A passionate software engineering student & a gamer.</h3>
+<h3 align="center">2nd year software engineering student.</h3>
 
-- I’m currently learning **Django, Flask & Pyramid aside from basic Javascript.**
+- I’m currently learning **Machine Learning & AI**
 </h3>
 
 <h3 align="left">Connect with me:</h3>
