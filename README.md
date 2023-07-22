@@ -1,5 +1,5 @@
 # About Me:
-Hey! I'm Ahsan. <br>I like to learn, build, and teach.<br>I’m a citizen of Pakistan.<br>I can speak 3 different languages.<br>I have a great interest in Machine Learning & AI.
+Hey! I'm Ahsan. <br>I like to learn, build, and teach.<br>I’m a citizen of Pakistan.<br>I can speak 3 different languages.<br>I have a great interest in Machine Learning & AI. Love chess, reading, fishing, photographing, and many sports.
 
 
 ## Socials:
