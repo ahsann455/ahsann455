@@ -1,5 +1,5 @@
 # About Me:
-Hey! I am Ahsan but you might know me by my foster name melvin. <br>I like to learn, build, and teach. <br> I can speak 6 different languages.<br>I have a great interest in Machine Learning & AI. Love chess, reading, fishing, photographing, and many sports.
+<br>I like to learn, build, and teach. <br> I can speak 6 different languages.<br>I have a great interest in Machine Learning & AI. Love chess, reading, fishing, photographing, and many sports.
 
 
 ## Socials:
