@@ -3,9 +3,9 @@
 
 
 ## Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ahsaNN#2694) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ahsan-khan-596aaa222) <a href="https://steamcommunity.com/id/777ahsanes/" target="_blank" style="display: inline-flex; align-items: center; background-color: #1b2838; color: white; padding: 6px 12px; border-radius: 6px; text-decoration: none; font-family: sans-serif; font-weight: 500; margin-right: 8px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam" style="height: 20px; margin-right: 8px;">
-  Steam
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)]([https://twitter.com/ahsan_khan](https://x.com/khanahsanllc))
+
 </a>
 
 
