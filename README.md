@@ -3,7 +3,7 @@
 
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
 [![X](https://img.shields.io/badge/X-%23FF0000.svg?logo=x&logoColor=white)](https://x.com/khanahsanllc)
 
 
