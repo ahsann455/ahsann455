@@ -1,11 +1,11 @@
 # About Me:
 <br>I like to learn, build, and teach. <br> I can speak 6 different languages.<br>I have a great interest in Machine Learning & AI. Love chess, reading, fishing, photographing, and many sports.
 
-There is a whole new world
-That you need to explore
+There is a whole new world,<br>
+That you need to explore<br>
 
 It’s the echo of the rails,
-The sound you’ve grown to love.
+The sound you’ve grown to love. <br>
 
 
 ## Socials:
