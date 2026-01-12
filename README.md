@@ -1,6 +1,12 @@
 # About Me:
 <br>I like to learn, build, and teach. <br> I can speak 6 different languages.<br>I have a great interest in Machine Learning & AI. Love chess, reading, fishing, photographing, and many sports.
 
+There is a whole new world
+That you need to explore
+
+It’s the echo of the rails,
+The sound you’ve grown to love.
+
 
 ## Socials:
 [![X](https://img.shields.io/badge/X-%23FF0000.svg?logo=x&logoColor=white)](https://x.com/khanahsanllc)
