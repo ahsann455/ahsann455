@@ -1,15 +1,13 @@
 # About Me:
 <br>I like to learn, build, and teach. <br> I can speak 6 different languages.<br>I have a great interest in Machine Learning & AI. Love chess, reading, fishing, photographing, and many sports.
 
-There is a whole new world,<br>
-That you need to explore<br>
 
-It’s the echo of the rails,
-The sound you’ve grown to love. <br>
 
 
 ## Socials:
 [![X](https://img.shields.io/badge/X-%23FF0000.svg?logo=x&logoColor=white)](https://x.com/khanahsanllc)
+
+<img width="1080" height="1080" alt="That you need to explore It’s the echo of the rails, The sound you’ve grown to love" src="https://github.com/user-attachments/assets/14abcea9-038d-47ce-9944-4f1de0dae3f3" />
 
 
 </a>
