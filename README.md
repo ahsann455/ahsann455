@@ -7,7 +7,8 @@
 ## Socials:
 [![X](https://img.shields.io/badge/X-%23FF0000.svg?logo=x&logoColor=white)](https://x.com/khanahsanllc)
 
-<img width="780" height="780" alt="That you need to explore It’s the echo of the rails, The sound you’ve grown to love" src="https://github.com/user-attachments/assets/14abcea9-038d-47ce-9944-4f1de0dae3f3" />
+<img width="780" height="780" alt="Feb 4, 2026, 03_58_39 PM" src="https://github.com/user-attachments/assets/64e8eed4-d415-4686-9e2e-cc344e5f7773" />
+
 
 
 </a>
