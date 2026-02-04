@@ -7,7 +7,8 @@
 ## Socials:
 [![X](https://img.shields.io/badge/X-%23FF0000.svg?logo=x&logoColor=white)](https://x.com/khanahsanllc)
 
-<img width="780" height="780" alt="Feb 4, 2026, 03_58_39 PM" src="https://github.com/user-attachments/assets/64e8eed4-d415-4686-9e2e-cc344e5f7773" />
+<img width="780" height="780" alt="ChatGPT Image Feb 4, 2026, 04_33_51 PM" src="https://github.com/user-attachments/assets/a66909fd-1bfe-498c-9e0a-afc84ea08fc5" />
+
 
 
 
